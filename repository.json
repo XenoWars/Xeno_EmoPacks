@@ -7,7 +7,7 @@
 			"game_name": "AM2R Randomizer",
 			"version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
-			"uid": "AM2R",
+			"uid": "am2r_xenowars",
 			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
 			"variants": [
 				{
@@ -25,7 +25,7 @@
 			"game_name": "Metroid Prime 2: Echoes Randomizer",
 			"version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
-			"uid": "Metroid Prime 2: Echoes",
+			"uid": "prime2_xenowars",
 			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip",
 			"variants": [
 				{
