@@ -16,7 +16,7 @@
 				},
 				{
 					"name": "Items Only",
-					"flags": [ "map", "pins" ]
+					"flags": []
 				}
 			]
 		},
@@ -38,10 +38,12 @@
 					"flags": [ "map", "pins" ]
 				},
 				{
-					"display_name": "Item Tracker"
+					"display_name": "Item Tracker",
+					"flags": []
 				},
 				{
-					"display_name": "Extra Settings"
+					"display_name": "Extra Settings",
+					"flags": []
 				}
 			]
 		}
