@@ -9,7 +9,7 @@
 			"flags": [ "map", "pins" ],
 			"package_uid": "AM2R",
 			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
-			"variants": {
+			"variants": [
 				"standard": {
 					"display_name": "Map Tracker",
 					"flags": [ "map", "pins" ]
@@ -18,7 +18,7 @@
 					"display_name": "Items Only",
 					"flags": [ "map", "pins" ]
 				}
-			}
+			]
 		},
 		{
 			"name": "Metroid Prime 2 Official Tracker",
@@ -28,7 +28,7 @@
 			"flags": [ "map", "pins" ],
 			"package_uid": "Metroid Prime 2: Echoes",
 			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip",
-			"variants": {
+			"variants": [
 				"standard": {
 					"display_name": "Map Tracker: Vanilla (Actual)",
 					"flags": [ "map", "pins" ]
@@ -43,7 +43,7 @@
 				"v_extras": {
 					"display_name": "Extra Settings"
 				}
-			}
+			]
 		}
 	]
 }
