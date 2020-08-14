@@ -16,5 +16,27 @@
 				"flags": [ "map", "pins" ]
 			}
 		}
+	},
+	{
+		"name": "Metroid Prime 2 Official Tracker",
+		"author": "XenoWars, Emblem, anxiousCrescendo",
+		"game_name": "Metroid Prime 2: Echoes Randomizer",
+		"package_version": "1.0.0.0",
+		"flags": [ "map", "pins" ],
+		"package_uid": "Metroid Prime 2: Echoes",
+		"variants": {
+			"standard": {
+				"display_name": "Map Tracker: Vanilla (Actual)"
+			},
+			"v_mapcolors": {
+				"display_name": "Map Tracker: Vanilla (Colors)"
+			},
+			"v_itemtrack": {
+				"display_name": "Item Tracker"
+			},
+			"v_extras": {
+				"display_name": "Extra Settings"
+			}
+		}
 	}
 ]
