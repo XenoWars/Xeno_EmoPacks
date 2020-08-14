@@ -1,5 +1,5 @@
 ﻿{
-	"name": "XenoWars OEmoTracker Packs",
+	"name": "XenoWars EmoTracker Packs",
 	"packages": [
 		{
 			"name": "AM2R Official Tracker",
@@ -8,7 +8,7 @@
 			"package_version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
 			"package_uid": "AM2R",
-			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip"
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
 			"variants": {
 				"standard": {
 					"display_name": "Map Tracker",
@@ -27,13 +27,15 @@
 			"package_version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
 			"package_uid": "Metroid Prime 2: Echoes",
-			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip"
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip",
 			"variants": {
 				"standard": {
-					"display_name": "Map Tracker: Vanilla (Actual)"
+					"display_name": "Map Tracker: Vanilla (Actual)",
+					"flags": [ "map", "pins" ]
 				},
 				"v_mapcolors": {
-					"display_name": "Map Tracker: Vanilla (Colors)"
+					"display_name": "Map Tracker: Vanilla (Colors)",
+					"flags": [ "map", "pins" ]
 				},
 				"v_itemtrack": {
 					"display_name": "Item Tracker"
