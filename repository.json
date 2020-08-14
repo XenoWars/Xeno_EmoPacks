@@ -8,7 +8,7 @@
 			"version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
 			"uid": "am2r_xenowars",
-			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars_jas_druidvorse.zip",
 			"variants": [
 				{
 					"name": "Map Tracker",
@@ -26,7 +26,7 @@
 			"version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
 			"uid": "prime2_xenowars",
-			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip",
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars_emblem_anxiouscrescendo.zip",
 			"variants": [
 				{
 					"name": "Map Tracker: Vanilla (Actual)",
