@@ -2,7 +2,7 @@
 	"name": "XenoWars EmoTracker Packs",
 	"packages": [
 		{
-			"name": "AM2R Official Tracker",
+			"name": "AM2R Randomizer Tracker",
 			"author": "XenoWars, Jas, DruidVorse",
 			"game_name": "AM2R Randomizer",
 			"version": "1.0.0.0",
@@ -20,9 +20,9 @@
 			]
 		},
 		{
-			"name": "Metroid Prime 2: Echoes Randomizer",
+			"name": "Metroid Prime 2: Echoes Randomizer Tracker",
 			"author": "XenoWars, Emblem, anxiousCrescendo",
-			"game_name": "Metroid Prime 2: Echoes Randomizer",
+			"game_name": "Metroid Prime 2: Echoes",
 			"version": "1.0.0.0",
 			"flags": [ "map", "pins" ],
 			"uid": "prime2_xenowars_emblem_anxiouscrescendo",
