@@ -1,44 +1,47 @@
-﻿"packages": [
-	{
-		"name": "AM2R Official Tracker",
-		"author": "XenoWars, Jas, DruidVorse",
-		"game_name": "AM2R Randomizer",
-		"package_version": "1.0.0.0",
-		"flags": [ "map", "pins" ],
-		"package_uid": "AM2R",
-		"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip"
-		"variants": {
-			"standard": {
-				"display_name": "Map Tracker",
-				"flags": [ "map", "pins" ]
-			},
-			"v_itemsonly": {
-				"display_name": "Items Only",
-				"flags": [ "map", "pins" ]
+﻿{
+	"name": "XenoWars OEmoTracker Packs",
+	"packages": [
+		{
+			"name": "AM2R Official Tracker",
+			"author": "XenoWars, Jas, DruidVorse",
+			"game_name": "AM2R Randomizer",
+			"package_version": "1.0.0.0",
+			"flags": [ "map", "pins" ],
+			"package_uid": "AM2R",
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip"
+			"variants": {
+				"standard": {
+					"display_name": "Map Tracker",
+					"flags": [ "map", "pins" ]
+				},
+				"v_itemsonly": {
+					"display_name": "Items Only",
+					"flags": [ "map", "pins" ]
+				}
+			}
+		},
+		{
+			"name": "Metroid Prime 2 Official Tracker",
+			"author": "XenoWars, Emblem, anxiousCrescendo",
+			"game_name": "Metroid Prime 2: Echoes Randomizer",
+			"package_version": "1.0.0.0",
+			"flags": [ "map", "pins" ],
+			"package_uid": "Metroid Prime 2: Echoes",
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip"
+			"variants": {
+				"standard": {
+					"display_name": "Map Tracker: Vanilla (Actual)"
+				},
+				"v_mapcolors": {
+					"display_name": "Map Tracker: Vanilla (Colors)"
+				},
+				"v_itemtrack": {
+					"display_name": "Item Tracker"
+				},
+				"v_extras": {
+					"display_name": "Extra Settings"
+				}
 			}
 		}
-	},
-	{
-		"name": "Metroid Prime 2 Official Tracker",
-		"author": "XenoWars, Emblem, anxiousCrescendo",
-		"game_name": "Metroid Prime 2: Echoes Randomizer",
-		"package_version": "1.0.0.0",
-		"flags": [ "map", "pins" ],
-		"package_uid": "Metroid Prime 2: Echoes",
-		"link": "https://xenowars.github.io/Xeno_EmoPacks/prime2_xenowars.zip"
-		"variants": {
-			"standard": {
-				"display_name": "Map Tracker: Vanilla (Actual)"
-			},
-			"v_mapcolors": {
-				"display_name": "Map Tracker: Vanilla (Colors)"
-			},
-			"v_itemtrack": {
-				"display_name": "Item Tracker"
-			},
-			"v_extras": {
-				"display_name": "Extra Settings"
-			}
-		}
-	}
-]
+	]
+}
