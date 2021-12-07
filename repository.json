@@ -3,12 +3,12 @@
 	"packages": [
 		{
 			"name": "AM2R Randomizer Tracker",
-			"author": "XenoWars, Jas, DruidVorse",
+			"author": "XenoWars",
 			"game_name": "AM2R Randomizer",
-			"version": "1.0.2",
+			"version": "2.0.0",
 			"flags": [ "map", "pins" ],
-			"uid": "am2r_xenowars_jas_druidvorse",
-			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars_jas_druidvorse.zip",
+			"uid": "am2r_xenowars",
+			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
 			"variants": [
 				{
 					"name": "Map Tracker",
