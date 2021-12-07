@@ -5,7 +5,7 @@
 			"name": "AM2R Randomizer Tracker",
 			"author": "XenoWars",
 			"game_name": "AM2R Randomizer",
-			"version": "2.0.0",
+			"version": "2.0.1",
 			"flags": [ "map", "pins" ],
 			"uid": "am2r_xenowars",
 			"link": "https://xenowars.github.io/Xeno_EmoPacks/am2r_xenowars.zip",
